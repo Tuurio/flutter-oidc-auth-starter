@@ -1,8 +1,9 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_flutter",
-  "sourceSha": "4230326da150f8a40dd45ecfa20bf3f556743d0e",
+  "sourceSha": "6833b4a83ac9aaa09f289f5de9d02aa1fa053e7d",
+  "packageSha256": "0433b4345adf0f75a4ad4507be6d2d41fc5a8c15b0c3b33116379e039c36a4d8",
   "templateId": "flutter",
   "managedFiles": [
     {

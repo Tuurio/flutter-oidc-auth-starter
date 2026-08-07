@@ -1,0 +1,17 @@
+name: auth_samples_flutter
+description: Tuurio Auth Flutter Demo
+publish_to: "none"
+version: 0.0.1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_appauth: ^12.0.2
+  http: ^1.6.0
+  shared_preferences: ^2.5.4
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "Tuurio/auth_samples",
+  "sourcePath": "auth_samples_flutter",
+  "sourceSha": "b7582d09518ce261a97ce8daaaf52a636b4eb60f",
+  "templateId": "flutter",
+  "managedFiles": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "b998d4ed6f9229ec5714f5786af2233a7117f0cccc9ae541a045b936466f5fc6"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "7b637b2cea67a30603e462378011b646b4f687ca8213e5df31f8713950f3c958"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "d4550f46c1ccd248bbf655d1306af881fe314f1f8cee27ae82c47ae4e8016497"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "README.md",
+      "sha256": "bdac837e42f746a00927dcbee184cd09a838da6bb92ffe9a6a355ba13553c812"
+    },
+    {
+      "path": "lib/auth_config.dart",
+      "sha256": "5c70bd6f182feaea6aa7c52013a6e08453cc0104f95af28c4e11137c06e9a75e"
+    },
+    {
+      "path": "lib/auth_controller.dart",
+      "sha256": "a824ad417222456697e3314d0856f5f7360654bc87db265ebc218a655abe1fd8"
+    },
+    {
+      "path": "lib/main.dart",
+      "sha256": "942b9eaf8f083b8bf02d7183c98e78ec02b6d5aa1a081c2579dd5c31d6860bec"
+    },
+    {
+      "path": "pubspec.lock",
+      "sha256": "b1ece56d58fb9314ae2b2455cc9d97aa77bb01cfecae0c8d0d4dd82bbc03ee61"
+    },
+    {
+      "path": "pubspec.yaml",
+      "sha256": "02d3ea0278e009e0443d8830d6144a3215d7d466d6097042571783e95d107a5b"
+    }
+  ]
+}
